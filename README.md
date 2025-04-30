@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vaibhavv2025
+- 👋 Hi, I’m Vaibhav
 🔍 I'm a passionate **Power BI Developer / Power Platform Consultant** with 3+ years of experience in turning raw data into meaningful insights.
 
 👀 I’m interested in:  
